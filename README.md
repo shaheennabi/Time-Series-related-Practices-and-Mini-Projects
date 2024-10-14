@@ -1,1 +1,3 @@
-# Time-Series-related-Practices-and-Mini-Projects
+# This repository is proof of my work with time series data and experiments ...
+
+* I will be updating it soon 
