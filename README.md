@@ -1,6 +1,6 @@
 # Time Series Forecasting Practices and Mini-Projects
 
-Welcome to my **Time Series Forecasting** repository — a collection of hands-on experiments and projects using models like **ARIMA**, **Prophet**, **LSTM**, and **GRU**. This space explores the full pipeline: from **data preprocessing** to building and validating forecasting models on real-world datasets such as **stock prices**, **weather data**, and **sales trends**.
+Welcome to my **Time Series Forecasting** repository — a collection of hands-on experiments and projects. This space explores the full pipeline: from **data preprocessing** to building and validating forecasting models on real-world datasets such as **stock prices**, **weather data**, and **sales trends**.
 
 ##  Key Areas Covered
 
