@@ -2,7 +2,7 @@
 
 ##  Key Areas Covered
 
-- **Forecasting Models**: ARIMA, Exponential Smoothing, LSTM, GRU, AutoARIMA, SARIMA  
+- **Forecasting Models**: ARIMA, SARIMA, Exponential Smoothing, VARIMA, VARIMAX etc...  
 - **Preprocessing**: Handling missing data, outliers, and seasonal adjustments  
  
 
