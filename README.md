@@ -1,6 +1,6 @@
 # Time Series Forecasting Practices and Mini-Projects
 
-##  Key Areas Covered
+###  Key Areas Covered
 
 - **Forecasting Models**: ARIMA, SARIMA, Exponential Smoothing, VARIMA, VARIMAX etc...  
 - **Preprocessing**: Handling missing data, outliers, and seasonal adjustments  
