@@ -1,10 +1,5 @@
 # Time Series Forecasting Practices and Mini-Projects
 
-
-...on it..
-
-Welcome to my **Time Series Forecasting** repository — a collection of hands-on experiments and projects. This space explores the full pipeline: from **data preprocessing** to building and validating forecasting models on real-world datasets such as **stock prices**, **weather data**, and **sales trends**.
-
 ##  Key Areas Covered
 
 - **Forecasting Models**: ARIMA, Exponential Smoothing, Prophet, LSTM, GRU, AutoARIMA, SARIMA  
